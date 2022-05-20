@@ -12,3 +12,7 @@
   display: flex;
   width: calc(100% / 3);
 }
+
+select.head {
+  border-style: none;
+}
