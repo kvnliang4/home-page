@@ -31,6 +31,25 @@ a {
 
 .margin-right {
   height: 18px;
-  margin-right: 10px;
+  margin-right: 3px;
+  margin-left: 3px;
   padding: 0 10px;
+}
+
+.hidden-border {
+  border-style: hidden;
+}
+
+.search-bar {
+  border: solid 2px orange;
+  border-radius: 5px;
+  height: 20px;
+  width: 100%;
+}
+
+.search-button {
+  color: white;
+  background-color: #eb7100;
+  border: #eb7100;
+  border-radius: 2px;
 }
