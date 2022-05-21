@@ -13,6 +13,14 @@
   width: calc(100% / 3);
 }
 
-select.head {
+select.header {
   border-style: none;
+  appearance: none;
+  width: 100%;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
